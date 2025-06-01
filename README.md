@@ -27,4 +27,8 @@ Despite a notable undecided segment, the concept of betting with data balance sp
 - Majority of the responders are skeptical or totally against the use of data balance for betting
 - The majority are familiar with betting apps, suggesting a tech-savvy audience.
 - Feature expectations and security concerns need to be addressed in product design.
+
+  ## Dashboard Preview
+  <img width="583" alt="Dashboard" src="https://github.com/user-attachments/assets/f06b8e8d-a08b-442b-b2b6-727186890af6" />
+
   
