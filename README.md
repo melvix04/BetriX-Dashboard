@@ -7,7 +7,7 @@ To assess public perception, interest, and potential adoption of a data-based be
 - Cleaned Bet Response data cop2.xlsx: Cleaned survey response data
 ![View Betrix Data](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetriX%20Data%20Dashboard.xlsx)
 
-- Visualizations and charts  ![View Betrix Dashboard](https://github.com/melvix04/BetriX-Dashboard/blob/main/Dashboard.PNG)   
+- Visualizations and charts  ![View Betrix Data](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetriX%20Data%20Dashboard.xlsx)   
 - Key findings and strategic recommendations summary
 
 ## Key Findings
