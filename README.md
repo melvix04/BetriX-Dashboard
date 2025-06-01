@@ -5,9 +5,9 @@ This document presents a pre-development survey analysis for BetriX, a betting c
 To assess public perception, interest, and potential adoption of a data-based betting model, and inform the early stages of product development.
 ## Contents
 - Cleaned Bet Response data cop2.xlsx: Cleaned survey response data
-![View Betrix Data](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetriX%20Data%20Dashboard.xlsx)
+[View Betrix Data](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetriX%20Data%20Dashboard.xlsx)
 
-- Visualizations and charts  ![View Betrix Data](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetriX%20Data%20Dashboard.xlsx)   
+- Visualizations and charts  [View Betrix Data](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetriX%20Data%20Dashboard.xlsx)   
 - Key findings and strategic recommendations summary
 
 ## Key Findings
@@ -17,7 +17,7 @@ To assess public perception, interest, and potential adoption of a data-based be
 - Favorite Betting Apps
 ## Tools Used
 - Languages: Python (Pandas for cleaning dataset)
-- IDE: Jupyter Notebook ![View the Python cleaning codes](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetX.ipynb)  
+- IDE: Jupyter Notebook [View the Python cleaning codes](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetX.ipynb)  
 - Excel for visualization
 - Data Source: User survey Google form
 ## Summary
