@@ -7,7 +7,7 @@ To assess public perception, interest, and potential adoption of a data-based be
 - Cleaned Bet Response data cop2.xlsx: Cleaned survey response data
 ![View Betrix Data](relative/path/to/image.png)
 
-- Visualizations and charts  ![View Betrix Dashboard]([relative/path/to/image.png](https://github.com/melvix04/BetriX-Dashboard/blob/main/Dashboard.PNG))   
+- Visualizations and charts  ![View Betrix Dashboard](https://github.com/melvix04/BetriX-Dashboard/blob/main/Dashboard.PNG)   
 - Key findings and strategic recommendations summary
 
 ## Key Findings
@@ -17,7 +17,7 @@ To assess public perception, interest, and potential adoption of a data-based be
 - Favorite Betting Apps
 ## Tools Used
 - Languages: Python (Pandas for cleaning dataset)
-- IDE: Jupyter Notebook ![View the Python cleaning codes]([relative/path/to/image.png](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetX.ipynb))  
+- IDE: Jupyter Notebook ![View the Python cleaning codes](https://github.com/melvix04/BetriX-Dashboard/blob/main/BetX.ipynb)  
 - Excel for visualization
 - Data Source: User survey Google form
 ## Summary
